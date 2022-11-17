@@ -24,7 +24,7 @@ num1 =["123", "999", "1000"]
 num2 =["456", "111", "2000"]
 expectedResult = ["579", "1110", "3000"]
 # Write a loop to try all the test cases 
-for i in num1:
+for i in range(0,3):
     result = mySolution.addStrings(num1[i], num2[i])
     if result == expectedResult[i]:
         print("test passed")
