@@ -1,3 +1,13 @@
+'''
+Name: Joshua Earley
+email: earleyja@mail.uc.edu
+Assignment: Assignment 13
+Course: IS 4010
+Semester/Year: Fall 2022
+Brief Description: 
+Citations:
+Anything else that's relevant:
+'''
 # LC415.py
 # Solution to the LeetCode problem 415
 # https://leetcode.com/problems/add-strings/
