@@ -46,3 +46,4 @@ for i in range(0,3):
     else:
         print("test FAILED. Change professions.")
         print("expected result", expected_results[i], type(expected_results[i]), "actual result", result, type(result))
+        
