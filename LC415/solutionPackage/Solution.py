@@ -1,10 +1,11 @@
+## Assignment13
 # LC415.py
 # Solution to the LeetCode problem 415
 # https://leetcode.com/problems/add-strings/
 class Solution:
     def toInt(self, num):
         answer = 0
-        for d in num:
+        for d in num: 
             answer = answer * 10 + (ord(d)-48) 
         return answer
         
